@@ -1,4 +1,4 @@
-export const CommentInfo = ({ comment = [] }) => (
+export const CommentInfo = ({ comment }) => (
   <div className="CommentInfo">
     <div className="CommentInfo__item">
       <div className="CommentInfo__title">
